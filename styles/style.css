@@ -1,0 +1,39 @@
+html {
+  font-size: 10px;
+  font-family: 'PT Sans' sans-serif /* 'Lobster'*/;
+  background-color: green;
+}
+h3 {
+  font-size: 20px;
+  font-family:  'Comic Sans MS' cursive;
+  font-style: italic;  
+}
+h1 {
+  font-size: 30px;  
+  text-shadow: 5px 5px 8px #FD559F;
+}
+p,h2 {
+  font-size: 18px;  
+  line-height:1.5;
+  letter-spacing:1px;
+}
+h2 {
+  font-size: 24px;  
+  line-height:1.5;
+  letter-spacing:1px;
+}
+img {
+  width: 560px;
+  height:385px;
+}
+#imgblock{    
+  float:right;
+}
+#imgblock p{    
+  text-align:right;
+  letter-spacing: 4px;
+}
+div#textblock{  
+  position: relative;   
+  clear:left;
+}

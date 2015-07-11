@@ -1,0 +1,41 @@
+html {
+background-color:#eeeeee;
+clear:left;
+}
+
+div#d1 {
+width: 200px;
+height:200px;
+background-color:#111111;
+float:right;
+}
+div#d2 {
+width: 200px;
+height:200px;
+background-color:#333333;
+float:right;
+
+}
+div#d3 {
+width: 200px;
+height:200px;
+background-color:#888888;
+float:right;
+border: 0px solid red;
+padding: -10px
+}
+div#d4 {
+width: 200px;
+height:200px;
+background-color:#bbbbbb;
+float:right;
+
+}
+div{
+/*text-shadow: 3 3 3 white;*/
+}
+H1{
+text-shadow: 3 3 3 white;
+color: #222222;
+background-color: #aa3377;
+}
