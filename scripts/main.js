@@ -6,7 +6,7 @@ var src ;
 image.onclick = function() {
   src = image.getAttribute("src");  
   if(src === "images/image3.jpg") {  
-    image.setAttribute ('src',"images/image4.jpg");
+    image.setAttribute ('src',"images/image1.jpg");
   } else {
     image.setAttribute ('src',"images/image3.jpg");
   }
